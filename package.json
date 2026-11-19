@@ -1,0 +1,14 @@
+{
+  "name": "poetry-quotation-editions",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "校录书目与出版摘录",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}
